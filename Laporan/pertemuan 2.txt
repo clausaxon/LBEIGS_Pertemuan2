@@ -1,0 +1,8 @@
+Pertemuan ke 2
+
+Perbedaan native dan non native.
+Perbedaan class dan object.
+abstrak= membuat fungsi tanpa di definisikan.
+inheritance = pewarisan.
+perbedaan public,private,protected.
+construct dan destruct.
